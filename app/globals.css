@@ -1,0 +1,42 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+/* Fonts Import */
+
+@font-face {
+  font-family: Thole;
+  src: url("assets/fonts/Thole/TholeRegular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: Thole;
+  font-weight: bold;
+  src: url("assets/fonts/Thole/TholeBold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: Thole;
+  font-weight: thin;
+  src: url("assets/fonts/Thole/TholeThin.otf") format("opentype");
+}
+
+@font-face {
+  font-family: Point Soft;
+  src: url("assets/fonts/PointSoft/PointSoftLight.otf") format("opentype");
+}
+
+@font-face {
+  font-family: Point Soft;
+  font-weight: bold;
+  src: url("assets/fonts/PointSoft/PointSoftSemiBold.otf") format("opentype");
+}
