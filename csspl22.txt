@@ -1,0 +1,4 @@
+1333px - 1508px
+> .main-right {position: relative;left: 4%;}
+
+https://school-sound-color-studios.vercel.app/
